@@ -1,4 +1,4 @@
-FROM souravkl11/raganork:test
+FROM SISACO/raganork:test
 
 RUN git clone https://github.com/SISACO/Raganork/ /skl/raganork
 WORKDIR /skl/raganork 
